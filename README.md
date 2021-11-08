@@ -17,4 +17,3 @@ El código del que partimos en el taller está sacado de este proyecto Open Sour
 https://www.hackster.io/cesar-j-mcf/alexa-controlled-thermostat-with-nodemcu-v3-and-raspberry-pi-501d56
 
 ¡Aprovechad para darle las gracias su trabajo y compartirlo con la comunidad!
- 
